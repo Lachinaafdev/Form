@@ -1,6 +1,14 @@
 ﻿
 
 /* estilos */
+.conformt {
+    width: 90%;
+    background-color: white;
+    border-radius: 9px;
+    -webkit-box-shadow: 2px 5px 21px 5px #372347;
+    box-shadow: 2px 5px 21px 5px #372347; 
+}
+
 .conform {
     width: 90%;
     background-color: white;

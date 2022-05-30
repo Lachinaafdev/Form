@@ -41,6 +41,7 @@ namespace FormRegistro.Controllers
             {
                 _context.Usuarios.Add(usuario);
                 _context.SaveChanges();
+                return RedirectToAction("Index");
             }
             return View();
         }

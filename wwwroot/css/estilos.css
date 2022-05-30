@@ -1,0 +1,23 @@
+﻿
+
+/* estilos */
+.conform {
+    width: 90%;
+    background-color: white;
+    border-radius: 9px;
+    -webkit-box-shadow: 2px 5px 21px 5px #372347;
+    box-shadow: 2px 5px 21px 5px #372347;
+}
+@media (min-width: 768px)  {
+    .conform {
+        width: 40%;
+    }
+}
+
+.form-control {
+    border: none;
+    border-bottom: 1px solid grey;
+    border-radius: 0;
+
+}
+
